@@ -59,7 +59,6 @@ The system offers role-based access control with separate dashboards for adminis
 - **UI Components**: Custom component library with shadcn/ui
 - **Icons**: Lucide React
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
